@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing B.E in Electronics and Telecommunication Engineering.
 - 📫 How to reach me out on:-
      🔹 LinkedIn- www.linkedin.com/in/atharva-more-931261202
-     🔹INSTAGRAM- moreatharvaa
+     🔹INSTAGRAM- @moreatharvaa
      
 
 <!---
