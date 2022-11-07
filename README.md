@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @moreatharvaa
-- 👀 I’m interested in coding and cloud computing.
-- 🌱 I’m currently pursuing B.E in Electronics and Telecommunication Engineering.
-- 📫 How to reach me out on:-
-     🔹 LinkedIn- www.linkedin.com/in/atharva-more-931261202
-     🔹INSTAGRAM- @moreatharvaa
+- 👋 Hello, my name is Atharvaa More!
+- 👀I'm interested in coding and am currently honing my Data Structure skills. 
+- 🌱 I am currently pursuing a degree in electronics and telecommunications engineering.
+- 🌠 I'm always looking to grow and learn new things. When I'm playing chess, studying languages, or simply reading a good book, I lose track of time.
+     
+   ---------------------------------------------------  
+     What I'm Focusing on:-
+- 🚀 Currently focusing is solving multidimensional problems in Python and improving my data structure skills.
+     
+   --------------------------------------------------
+- 📫 You can find me elsewhere. 
+     ✨ linkedIn:- www.linkedin.com/in/atharva-more-931261202
+     ✨ instagram :- @moreatharvaa
+     ✨ twitter:- atharvaamore
+     ✨ discord:- atharvamore#0960
+      
      
 
 <!---
