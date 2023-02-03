@@ -1,3 +1,5 @@
+![logo](https://github.com/moreatharvaa/moreatharvaa/blob/main/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
+
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
 <h3 align="center">👀I'm interested in coding and am currently honing my Data Structure skills.</h3>
 
