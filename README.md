@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva More</h1>
+<h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
 <h3 align="center">👀I'm interested in coding and am currently honing my Data Structure skills.</h3>
 
 <img align = "right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
