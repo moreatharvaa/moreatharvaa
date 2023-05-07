@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharvaamore" target="blank"><img src="https://img.shields.io/twitter/follow/atharvaamore?logo=twitter&style=for-the-badge" alt="atharvaamore" /></a> </p>
 
-- 🔭 I’m currently working on **I am currently pursuing a degree in electronics and telecommunications engineering**
+- 🔭 **I am currently pursuing a degree in electronics and telecommunications engineering**
 
 - 🌱 I’m currently learning **Data Structures in Java**
 
