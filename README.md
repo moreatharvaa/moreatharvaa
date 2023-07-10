@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
 
-- 💬 Ask me about **python, java, c, MySql**
+- 💬 Ask me about **cpp, python, java, c, MySql**
 
 - 📫 Reach me out at **moreatharva062002@gmail.com**
 
