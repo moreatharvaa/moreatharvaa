@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **python, java, c, MySql**
 
-- 📫 How to reach me **moreatharva062002@gmail.com**
+- 📫 Reach me out at **moreatharva062002@gmail.com**
 
 - ⚡ Fun fact **I lose track of time when I'm playing chess, studying languages, or simply reading a good book.**
 
