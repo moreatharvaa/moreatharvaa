@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at here.
    
-- 🤡 Socially inactive but you can reach me out : [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
+- 🤡 Socially inactive but possibly be in one of them: [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
 
 - 💬 Ask me about **cpp, python, java, c, MySql**
 
