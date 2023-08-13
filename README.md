@@ -15,7 +15,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
+- 👨‍💻 All of my projects are available at here.
+   
+-  Socially inactive but you can reach me out : [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
 
 - 💬 Ask me about **cpp, python, java, c, MySql**
 
