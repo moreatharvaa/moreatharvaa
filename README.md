@@ -11,7 +11,7 @@
 
 - 🔭 **I am currently pursuing a degree in electronics and telecommunications engineering**
 
-- 🌱 I’m currently learning **Data Structures in Java**
+- 🌱 I’m currently learning **Data Structures in Cpp/Java**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
