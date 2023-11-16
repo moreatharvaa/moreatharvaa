@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Data Structures in Cpp/Java**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Web Dev**and **Data Science** Projects.
 
-- 👨‍💻 All of my projects are available at here.
+- 👨‍💻 All of my projects are available here.
    
-- 🤡 Socially inactive but possibly be in one of them: [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
+- 🤡 Socially inactive but possibly in one of them: [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
 
 - 💬 Ask me about **cpp, python, java, c, MySql**
 
