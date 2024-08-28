@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/moreatharvaa/moreatharvaa/blob/main/32097be52aea3db46a4356d59e2329b1.jpg) -->
 
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
-<h3 align="center">👀Interested in Data analytics and Web Dev</h3>
+<h3 align="center">👀Development and Analytics</h3>
 
 <img align = "right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/atharvaamore" target="blank"><img src="https://img.shields.io/twitter/follow/atharvaamore?logo=twitter&style=for-the-badge" alt="atharvaamore" /></a> </p>
 
-- 🔭 **I am currently pursuing a degree in electronics and telecommunications engineering**
+- 🔭 **Bachelor's in electronics and telecommunications engineering**
 
 - 🌱 I’m currently learning **Data Structures in Cpp/Java**
 
-- 👯 I’m looking to collaborate on **Web Dev**and **Data Science** Projects.
+- 👯 I’m looking to collaborate on **Dev** Projects.
 
 - 👨‍💻 All of my projects are available here.
    
@@ -23,7 +23,7 @@
 
 - 📫 Reach me out at **moreatharva062002@gmail.com**
 
-- ⚡ Fun fact **I lose track of time when I'm playing chess, studying languages, or simply reading a good book.**
+- ⚡ Fun fact **I lose track of time, surely playin chess or perpetually curious about something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
