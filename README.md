@@ -3,7 +3,8 @@
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
 <h3 align="center">👀Development and Analytics</h3>
 
-<img align = "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fspiderman-amazing-spider-man-gifs&psig=AOvVaw0jnhketyLNmDFMw29kT8xa&ust=1724924655116000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi0ppyzl4gDFQAAAAAdAAAAABAS">
+<img align = "right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/2a31fd0c-523c-450e-a2f6-0c54050d4f3a)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moreatharvaa&label=Profile%20views&color=0e75b6&style=flat" alt="moreatharvaa" /> </p>
 
