@@ -2,9 +2,9 @@
 
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
 <h3 align="center">👀Development and Analytics</h3>
+![spiderman-amazing-spiderman](https://github.com/user-attachments/assets/8b8087b9-8231-4769-96b2-96c4e2ee94b0)
 
-<img align = "right" alt="coding" width="400" src="
-">
+<img align = "right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moreatharvaa&label=Profile%20views&color=0e75b6&style=flat" alt="moreatharvaa" /> </p>
 
