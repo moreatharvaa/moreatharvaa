@@ -3,7 +3,7 @@
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
 <h3 align="center">👀Development and Analytics</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/moreatharvaa/moreatharvaa/main/32097be52aea3db46a4356d59e2329b1.jpg">
+<img align="right" alt="" width="400" src="https://raw.githubusercontent.com/moreatharvaa/moreatharvaa/main/32097be52aea3db46a4356d59e2329b1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moreatharvaa&label=Profile%20views&color=0e75b6&style=flat" alt="moreatharvaa" /> </p>
 
