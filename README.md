@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **cpp, python, java, c, MySql**
 
-- 📫 Reach me out at **moreatharva062002@gmail.com**
+- 📫 Reach me out at **athmore06@gmail.com**
 
 - ⚡ Fun fact **I lose track of time, surely playin chess or perpetually curious about something**
 
