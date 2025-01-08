@@ -8,10 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moreatharvaa&label=Profile%20views&color=0e75b6&style=flat" alt="moreatharvaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atharvaamore" target="blank"><img src="https://img.shields.io/twitter/follow/atharvaamore?logo=twitter&style=for-the-badge" alt="atharvaamore" /></a> </p>
+
 - 🌱 **SWE at LTIMindtree**
 
 - 🔭 **Bachelor's in electronics and telecommunications engineering**
-- 
+
 - 👯 I’m looking to collaborate on **Dev** Projects.
 
 - 👨‍💻 All of my projects are available here.
