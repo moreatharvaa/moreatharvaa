@@ -11,7 +11,7 @@
 
 - 🔭 **Bachelor's in electronics and telecommunications engineering**
 
-- 🌱 I’m currently learning **Data Structures in Cpp/Java**
+- 🌱 **SWE at LTIMindtree**
 
 - 👯 I’m looking to collaborate on **Dev** Projects.
 
@@ -19,7 +19,7 @@
    
 - 🤡 Socially inactive but possibly in one of them: [https://linktr.ee/moreatharvaa](https://linktr.ee/moreatharvaa)
 
-- 💬 Ask me about **cpp, python, java, c, MySql**
+- 💬 **whichever tech stack is being used in development, I will definitely explore potential solutions**
 
 - 📫 Reach me out at **athmore06@gmail.com**
 
