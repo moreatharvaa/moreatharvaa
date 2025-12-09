@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/moreatharvaa/moreatharvaa/blob/main/32097be52aea3db46a4356d59e2329b1.jpg) -->
 
 <h1 align="center">Hello Geeks!!👋, I'm Atharvaa More </h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="" width="400" src="https://raw.githubusercontent.com/moreatharvaa/moreatharvaa/main/32097be52aea3db46a4356d59e2329b1.jpg">
 
